@@ -1,0 +1,305 @@
+1.	JDK stands for ____.
+a.	Java development kit
+b.	Java deployment kit
+c.	JavaScript deployment kit
+d.	None of these
+2.	JRE stands for ___.
+a.	Java run ecosystem
+b.	JDK runtime Environment
+c.	Java Runtime Environment
+d.	None of these
+3.	What makes the Java platform independent?
+a.	Advanced programming language
+b.	It uses bytecode for execution
+c.	Class compilation
+d.	All of these
+4.	Can we keep a different name for the java class name and java file name?
+a.	Yes
+b.	No
+c.	Both A and B
+d.	None of these
+5.	What are the types of memory allocated in memory in java?
+a.	Heap memory
+b.	Stack memory
+c.	Both A and B
+d.	None of these
+6.	Multiline comment is created using ___.
+a.	//
+b.	/* */
+c.	<!--  -- >
+d.	All of these
+7.	What is the entry point of a program in Java?
+a.	main() method
+b.	The first line of code
+c.	Last line of code
+d.	main class
+8.	Can we write a program without a main method in Java?
+a.	Yes
+b.	No
+c.  both a and b
+d.  none of the above
+9.	Can the main() method be overloaded in Java?
+a.	Yes
+b.	No
+c.  both a and b
+d.  none of the above
+10.	Which keyword in java is used for exception handling?
+a.	exception
+b.	exceptionHandling
+c.	throw
+d.	All of these
+11. Which class in Java is used to take input from the user?
+a.	Scanner
+b.	Input
+c.	Applier
+d.	None of these
+12. Method used to take a string as input in Java?
+a.	next()
+b.	nextLine()
+c.	Both A. and B.
+d.	None of these
+13. Which of the following is the correct syntax to create a variable in Java?
+a.	var name;
+b.	int name;
+c.	var name int;
+d.	All of these
+14. Is string mutable in Java?
+a.	Yes
+b.	No
+c.  both a and b
+d.  none of the above
+15. Which of these is a type of variable in Java?
+a.	Instance Variable
+b.	Local Variable
+c.	Static Variable
+d.	All of these
+16. What is type casting in Java?
+a.	It is converting type of a variable from one type to another
+b.	Casting variable to the class
+c.	Creating a new variable
+d.	All of these
+17. Which type of casting is lossy in Java?
+a.	Widening typecasting
+b.	Narrowing typecasting
+c.	Manual typecasting
+d.	All of these
+18. Which of the following can be declared as final in java?
+a.	Class
+b.	Method
+c.	Variable
+d.	All of these
+19. Finally block is attached to?
+a.	Try-catch block
+b.	Class block
+c.	Method block
+d.	All of these
+20. The break statement in Java is used to ___.
+a.	Terminates from the loop immediately
+b.	Terminates from the program immediately
+c.	Skips the current iteration
+d.	All of these
+21.  Can the Java program accept input from the command line?
+a.	Yes, using command-line arguments
+b.	Yes, by access command prompt
+c.	No
+d.	None of these
+22.	Array in java is ___.
+a.	Collection of similar elements
+b.	Collection of elements of different types
+c.	The data type of consisting of characters
+d.	None of these
+23.	Object in java are ___.
+a.	Classes
+b.	References
+c.	Iterators
+d.	None of these
+24. What is garbage collection in java?
+a.	Method to manage memory in java
+b.	Create new garbage values
+c.	Delete all values
+d.	All of these
+25. Static variables in java are declared as ___.
+a.	final variables
+b.	new variables
+c.	Constants
+d.	All of these
+26. BigInteger Class is used to ___.
+a.	Store very long range of number
+b.	Store integer values
+c.	A class that stores large range of integer
+d.	All of these
+27. 'this' keyword in java is ___.
+a.	Used to hold the reference of the current object
+b.	Holds object value
+c.	Used to create a new instance
+d.	All of these
+28. The 'super' keyword is used to ___.
+a.	Access instance of the parent class
+b.	Access instance of the same class
+c.	Access instance of child class
+d.	Access instance of friend class
+29. The super() method is used to ___.
+a.	Call constructor of friend class
+b.	Is a declared method
+c.	Call constructor of the parent class
+d.	Call constructor
+30. Wrapper class in java is ___.
+a.	Used to encapsulate primitive data types
+b.	Declare new classes called wrapper
+c.	Create a new instance of the class
+d.	None of these
+31. Boxing is ___.
+a.	Creating new box
+b.	Creating object
+c.	Converting primitive type of object instance
+d.	All of these
+32. Abstract class is ___.
+a.	Created using abstract keyword
+b.	Contains only abstract method
+c.	Needs to be inherited to be used
+d.	All of these
+33. What is file handling in java?
+a.	It is creating, deleting, and modifying files using a java program.
+b.	Creating new method
+c.	Filing method to different file to extract them better
+d.	All of these
+34. Which is the correct absolute path of a file in Java?
+a.	C:\Program Files\Java\jdk1.8.0_131\bin\file_name.txt
+b.	C:\Program Files\Java\file_name.txt
+c.	C:\Program Files\Java\jdk1.8.0_131\file_name.txt
+d.	C:\Program Files\Java\jdk1.8.0_131\bin\File Handling\file_name.txt
+34. Which method deletes a file in Java?
+a.	file.delete()
+b.	file.remove()
+c.	file.garbage()
+d.	file.dump()
+35. The correct syntax to import the math library in java is ___.
+a.	import java.lang.math
+b.	import math
+c.	import java.math
+d.	All of these
+36. Which is/are valid method(s) of math library in java?
+a.	max()
+b.	cbrt()
+c.	log10()
+d.	All of these
+37. Which method in java is used to generate random numbers in Java?
+a.	random.nextInt()
+b.	random()
+c.	rand()
+d.	All of these
+38. In java, recursion is ___.
+a.	Method
+b.	A process allowing methods to call itself
+c.	The process to call methods
+d.	None of these
+39. What is stringBuffer in java?
+a.	Class to create a string array
+b.	Class to create a mutable string in java
+c.	Class to create a string from i/o buffer
+d.	All of these
+40. Which of the following is a valid data structure in java?
+a.	Array
+b.	List
+c.	Vector
+d.	All of these
+41. Which syntax is valid to create a vector in java?
+a.	Vector < string > names = new Vector < String > ();
+b.	Vector name = new string;
+c.	int name = new vector ()
+d.	All of these
+42. Which of these is true for interfaces in java?
+a.	The keyword interface is used to create a method
+b.	All the methods of an interface are abstract
+c.	It does not contain constructors
+d.	All of these
+43. Encapsulation is ___.
+a.	Wrapping up of data and related functions into a single entity
+b.	Creating special methods
+c.	Creating special data structure
+d.	All of these
+44. Which Java method is used to convert an object to string?
+a.	createString()
+b.	toString()
+c.	object.string()
+d.	newString()
+45. What is a comparator in Java?
+a.	Interface to compare integer
+b.	Comparison method for lists
+c.	Interface to compare two objects in java
+d.	All of these
+46. Which of the following methods are present in comparator interface?
+a.	compare()
+b.	equate()
+c.	isEqual()
+d.	All of these
+47. Which of the following statements is not correct for vectors in Java?
+a.	It was created using vector keyword
+b.	It can store an object of different classes
+c.	It is asynchronous
+d.	None of these
+48. What is a deadlock in Java?
+a.	State when all processes have complete working and are dead
+b.	State when threads are in hold state forever
+c.	State when threads are not ready
+d.	All of these
+49. Which graph is used to check for deadlock in Java?
+a.	Deadlock graph
+b.	Time graph
+c.	Wait-for-graph
+d.	None of these
+50. Batch processing in java is ___.
+a.	Used to execute a group of queries or a batch as executing a single query, again and again, is time taking and reduce the performance
+b.	Used to processing multiple queries can be executed at once
+c.	Used to increase program's performance
+d.	All of these
+51. Null in Java is ___.
+a.	Reserved keyword
+b.	Literal value
+c.	Used in exception handling
+d.	All of these
+52. Enumeration in Java is ___.
+a.	Data type which contains fixed set of constants
+b.	Method
+c.	Class
+d.	None of these
+53. Can we pass objects to method arguments in Java?
+a.	Yes
+b.	No
+c.  both a and b
+d.  none
+54. Which of the following ways is the correct way to create an object in Java?
+a.	Using the new keyword
+b.	Using newInstance() method
+c.	clone() method
+d.	All of these
+55. Which statement is correct for private member in Java?
+a.	Access outside the class is allowed
+b.	Any class can access
+c.	Declared using private keyword
+d.	All of these
+56. Which keyword is used to inherit classes in Java?
+a.	extends
+b.	inheritance
+c.	isChild
+d.	None of these
+57. Which of the following inheritance of class is invalid in Java?
+a.	Single
+b.	Multiple
+c.	Multi-level
+d.	Hierarchical
+58. The 'implements' keyword is used to ___.
+a.	Implement the function of a class
+b.	Inherit an interface in Java
+c.	Inherit a class in java
+d.	All of these
+59. What is polymorphism in Java?
+a.	Performing a single task in multiple ways
+b.	Performing multiple tasks using multiple methods
+c.	Creating a new class for each task
+d.	All of these
+60. What are packages in Java?
+a.	Methods of a friend class
+b.	Methods of the main class
+c.	Way to encapsulate a group of classes, sub-packages, and interface
+d.	All of these
